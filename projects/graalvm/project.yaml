@@ -1,0 +1,4 @@
+repo: https://github.com/oracle/graal#master
+primary_contact: matthias.neugschwandtner@oracle.com
+homepage: https://www.graalvm.org/
+disabled: false
